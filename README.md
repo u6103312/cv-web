@@ -5,7 +5,9 @@ Hypermedia project
 ## 1. User profile
 **Esther, 41 years old.** Esther works as an IT manager and recruiter at a company in Girona. She is looking for a junior technician to help with networks, servers and websites.
 She gets many CVs, so she usually spends just one or two minutes looking at each one. Most of the time, she reads them on her work computer, but sometimes she also uses her phone.
+
 **What she wants to know:** Who I am, where I have worked, which technologies I know and what projects I have done.
+
 **What she doesn't like:** CVs with too much text, designs that are difficult to understand and websites where it is hard to find the contact information.
 ## 2. Information architecture
 
@@ -22,9 +24,13 @@ I put the sections in the following order:
 ## 3. Visual design
 
 I wanted the website to look simple and modern, with a style related to IT. I looked at different developer portfolios to get some ideas. One of the websites I used as a reference was midudev's portfolio (porfolio.dev). I follow his YouTube channel and I like the way he designs his websites.
+
 **Colors:** I decided to use a dark background because I think it works well for a developer portfolio. I chose some colors from the Tailwind CSS palette: `#0F172A` for the background, `#334155` for borders, `#CBD5E1` for the main text, `#94A3B8` for dates and the menu, white for titles and `#22C55E` for buttons and links.
 I used light grey for most of the text instead of pure white because I find it more comfortable to read on a dark background. I chose green for the buttons and links because it stands out and helps people notice them.
+
 **Typography:** I used system-ui because it is easy to read and works on most devices. The main title is 56 px, the section titles are 28 px, and the dates are smaller and grey.
+
 **Layout:** I placed the content in a single column in the centre of the page, with a maximum width of 720 px. This stops the text from becoming too wide and makes it easier to read. I also left enough space between sections so the page doesn't look crowded.
 I focused mainly on the desktop version because I think recruiters will usually look at my CV on a computer at work.
+
 **Technologies:** I built the website using only HTML and CSS. I didn't use any frameworks because the project is quite simple, and I wanted to practise what we have learned in class.
