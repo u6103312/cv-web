@@ -1,6 +1,6 @@
 # CV website · Lluc Puigvert
 Hypermedia project
-* **Public website:** https://u6103312.github.io/cv-web/cv.html
+* **Public website:** https://u6103312.github.io/cv-web/
 * **Figma project:** https://www.figma.com/design/mgqTuX1T6agCwD6EaC7nAb/CV-Lluc-Puigvert?node-id=0-1&t=hM75UGYVlujnLd8n-1
 ## 1. User profile
 **Esther, 41 years old.** Esther works as an IT manager and recruiter at a company in Girona. She is looking for a junior technician to help with networks, servers and websites.
